@@ -15,6 +15,7 @@ git clone git@github.com:DngBack/PeopleCounting.git
 cd PeopleCounting 
 
 pip install -r requirements.txt
+
 ```
 
 ### Set up Code
