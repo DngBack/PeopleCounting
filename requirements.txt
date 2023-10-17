@@ -25,3 +25,4 @@ imageio
 paho-mqtt
 keras
 tensorflow-gpu
+openvino-dev
